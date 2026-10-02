@@ -65,15 +65,14 @@
               Margin="20,0,20,20">
 
             <Button Grid.Column="0"
-                    Text="Anterior"
-                    Command="{Binding PreviousPositionCommand}"
+                    Text="Get Started"
                     BackgroundColor="#FF1568"
                     TextColor="White"
                     CornerRadius="10"
                     HeightRequest="50" />
 
             <Button Grid.Column="1"
-                    Text="Próximo"
+                    Text="Next"
                     Command="{Binding NextPositionCommand}"
                     IsVisible="{Binding ShowButton}"
                     BackgroundColor="#4EA717"

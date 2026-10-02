@@ -50,7 +50,6 @@ namespace ViagemOnboardingPage.ViewModels
                     Title = "Capture and Share Memories",
                     Description = "Preserve your travel memories with our in-app photo and journaling features."
                 }
-                
             };
         }
 
